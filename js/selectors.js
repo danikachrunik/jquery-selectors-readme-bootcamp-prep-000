@@ -9,15 +9,15 @@ $(document).ready(function() {
   }
   
   function ninjaBabySelector() {
-    return $();
+    return $('#baby-ninja');
   }
   
   function divSelector() {
-    return $();
+    return $('.pics');
   }
   
   function firstListItem() {
-    return $();
+    return $('#pic-list: first-child');
   }
   
 });
