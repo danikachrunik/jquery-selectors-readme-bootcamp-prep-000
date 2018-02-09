@@ -1,3 +1,23 @@
 $(document).ready(function() {
-  // code to be executed goes here
+
+  function paragraphSelector() {
+    
+  }
+  
+  function lastImageSelector() {
+    
+  }
+  
+  function ninjaBabySelector() {
+    
+  }
+  
+  function divSelector() {
+    
+  }
+  
+  function firstListItem() {
+    
+  }
+  
 });
